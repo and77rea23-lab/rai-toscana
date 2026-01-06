@@ -12,12 +12,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-     - name: Estrai ultimo TG Toscana e aggiorna file
+      - name: Aggiorna TGR Toscana
         run: |
-          # Questo comando prende l'ultimo notiziario dal sito TGR Toscana
-          LINK=$(yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
-          echo "#EXTM3U
-          #EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfeAtVG3N5k7LYqcClHQGVXchhfWFu1dr7Q&s\", TGR Toscana HD" >> list.m3u
+          echo "#EXTM3U" > list.m3u
+          echo "#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfeAtVG3N5k7LYqcClHQGVXchhfWFu1dr7Q&s\", TGR Toscana HD" >> list.m3u
           echo "https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Toscana/28245325.mp4/chunklist_b1758000_t64MTgwMA==.m3u8" >> list.m3u
 
       - name: Git Config
@@ -27,6 +25,14 @@ jobs:
           git add list.m3u
           git commit -m "Aggiornato link TGR Toscana" || echo "Nessuna modifica"
           git push
+
+
+
+
+
+
+
+
 
 
 
