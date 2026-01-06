@@ -14,10 +14,12 @@ jobs:
 
 
 
-- name: Estrai ultimo TG Toscana e aggiorna file
+
+       - name: Estrai ultimo TG Toscana e aggiorna file
         run: |
           # Questo comando prende l'ultimo notiziario dal sito TGR Toscana
           LINK=$(yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
+          echo -e "#EXTM3U\n#EXTINF:-1, Ultimo TG Toscana HD\n$LINK" > list.m3u
         
 
       - name: Aggiorna TGR Toscana
