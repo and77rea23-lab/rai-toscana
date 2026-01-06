@@ -1,0 +1,37 @@
+name: Aggiorna Link TG Toscana
+on:
+  schedule:
+    # Gira alle 14:30 e alle 20:30 (dopo le edizioni principali)
+    - cron: '30 13,19 * * *' 
+  workflow_dispatch: # Permette di avviarlo a mano per testare
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del codice
+        uses: actions/checkout@v3
+
+      - name: Estrai ultimo link video
+        run: |
+          # Scarica la pagina e cerca il link del flusso video (m3u8)
+          # Usiamo un'espressione regolare per trovare l'indirizzo del video nel codice della pagina
+          URL_VIDEO=$(curl -s "https://www.rainews.it/tgr/toscana/notiziari" | grep -o 'https://[^"]*playlist.m3u8' | head -n 1)
+          
+          if [ -z "$URL_VIDEO" ]; then
+            echo "Non ho trovato il link, riprovo con metodo alternativo..."
+            URL_VIDEO=$(curl -s "https://www.rainews.it/tgr/toscana/notiziari" | grep -o 'https://[^"]*.m3u8' | head -n 1)
+          fi
+
+          echo "Link trovato: $URL_VIDEO"
+          echo "#EXTM3U" > tg_toscana.m3u8
+          echo "#EXT-X-STREAM-INF:BANDWIDTH=1280000" >> tg_toscana.m3u8
+          echo $URL_VIDEO >> tg_toscana.m3u8
+
+      - name: Salva le modifiche su GitHub
+        run: |
+          git config --global user.name "TG-Bot"
+          git config --global user.email "bot@github.com"
+          git add tg_toscana.m3u8
+          git commit -m "Aggiornato TG Toscana: $(date)" || exit 0
+          git push
