@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>TG Toscana Aggiornato</title>
+    <style>
+        body { margin: 0; padding: 0; background: black; text-align: center; }
+        iframe { width: 100%; height: 100vh; border: none; }
+    </style>
+</head>
+<body>
+
+    <iframe id="playerTG" src=""></iframe>
+
+    <script>
+        // Funzione per caricare sempre l'ultimo video senza memoria vecchia
+        function forzaAggiornamento() {
+            var urlBase = "https://www.rainews.it/tgr/toscana/notiziari";
+            var timestamp = new Date().getTime(); // Crea un codice unico per l'orario attuale
+            document.getElementById('playerTG').src = urlBase + "?update=" + timestamp;
+        }
+
+        // Avvia la funzione
+        forzaAggiornamento();
+    </script>
+
+</body>
+</html>
