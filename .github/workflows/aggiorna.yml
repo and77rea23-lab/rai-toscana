@@ -20,7 +20,7 @@ jobs:
         run: |
           LINK=$(yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
           echo "#EXTM3U" > miaplay.m3u
-          echo "#EXTINF:-1 tvg-logo=\"https://www.rai.it/dl/img/2020/01/24/1579882255850_TGR_Toscana.png\", TGR Toscana HD" >> miaplay.m3u
+          echo "#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfeAtVG3N5k7LYqcClHQGVXchhfWFu1dr7Q&s", TGR Toscana HD" >> miaplay.m3u
           echo "$LINK" >> miaplay.m3u
 
       - name: Salva Risultato
