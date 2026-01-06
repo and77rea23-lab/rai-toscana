@@ -1,0 +1,31 @@
+name: Aggiorna Link Rai
+on:
+  schedule:
+    - cron: '0 * * * *' # Gira ogni ora
+  workflow_dispatch: # Ti permette di farlo partire a mano
+
+jobs:
+  update-link:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Installa yt-dlp
+        run: |
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
+
+      - name: Estrai ultimo TG Toscana e aggiorna file
+        run: |
+          # Questo comando prende l'ultimo notiziario dal sito TGR Toscana
+          LINK=$(yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
+          echo -e "#EXTM3U\n#EXTINF:-1, Ultimo TG Toscana HD\n$LINK" > miaplay.m3u
+
+      - name: Salva le modifiche su GitHub
+        run: |
+          git config --global user.name "IlMioBot"
+          git config --global user.email "bot@github.com"
+          git add miaplay.m3u
+          git commit -m "TG Toscana aggiornato"
+          git push
