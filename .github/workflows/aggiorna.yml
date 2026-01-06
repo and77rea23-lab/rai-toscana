@@ -5,30 +5,29 @@ on:
     - cron: '0 * * * *'
 
 jobs:
-  update-link:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Installa yt-dlp
+      - name: Estrai e Salva
         run: |
+          # Scarica il tool per i link
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
-
-      - name: Estrai Video
-        run: |
-          LINK=$(yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
+          
+          # Prende il link dalla Rai
+          LINK=$(/usr/local/bin/yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
+          
+          # Crea il file della lista con il logo
           echo "#EXTM3U" > miaplay.m3u
           echo "#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfeAtVG3N5k7LYqcClHQGVXchhfWFu1dr7Q&s", TGR Toscana HD" >> miaplay.m3u
           echo "$LINK" >> miaplay.m3u
 
-      - name: Salva Risultato
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Carica il file su GitHub
+          git config --global user.name "github-actions"
+          git config --global user.email "action@github.com"
           git add miaplay.m3u
-          git commit -m "Aggiornamento automatico" || exit 0
+          git commit -m "Aggiornamento Link" || exit 0
           git push
