@@ -1,33 +1,42 @@
 name: Aggiorna Link Rai
 on:
-  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # Gira ogni ora
+  workflow_dispatch: # Ti permette di farlo partire a mano
 
 jobs:
-  build:
+  update-link:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Estrai e Salva
+      - name: Installa yt-dlp
         run: |
-          # Scarica il tool per i link
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
-          
-          # Prende il link dalla Rai
-          LINK=$(/usr/local/bin/yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
-          
-          # Crea il file della lista con il logo
-          echo "#EXTM3U" > miaplay.m3u
-          echo "#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfeAtVG3N5k7LYqcClHQGVXchhfWFu1dr7Q&s", TGR Toscana HD" >> miaplay.m3u
-          echo "$LINK" >> miaplay.m3u
 
-          # Carica il file su GitHub
-          git config --global user.name "github-actions"
-          git config --global user.email "action@github.com"
-          git add miaplay.m3u
-          git commit -m "Aggiornamento Link" || exit 0
+      - name: Estrai ultimo TG Toscana e aggiorna file
+        run: |
+          # Questo comando prende l'ultimo notiziario dal sito TGR Toscana
+          LINK=$(yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
+          echo -e "#EXTM3U\n#EXTINF:-1, Ultimo TG Toscana HD\n$LINK" > list.m3u
+
+      - name: Salva le modifiche su GitHub
+
+
+
+
+
+
+
+
+
+https://vod8-rai-it.akamaized.net/podcastcdn/TG_regionali/TG_Toscana/28245325.mp4/chunklist_b1758000_t64MTgwMA==.m3u8
+        run: |
+          git config --global user.name "IlMioBot"
+          git config --global user.email "bot@github.com"
+          git add list.m3u
+          git commit -m "TG Toscana aggiornato"
           git push
+
