@@ -12,6 +12,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+
+
+- name: Estrai ultimo TG Toscana e aggiorna file
+        run: |
+          # Questo comando prende l'ultimo notiziario dal sito TGR Toscana
+          LINK=$(yt-dlp -g --playlist-items 1 https://www.rainews.it/tgr/toscana/notiziari)
+        
+
       - name: Aggiorna TGR Toscana
         run: |
           echo "#EXTM3U" > list.m3u
