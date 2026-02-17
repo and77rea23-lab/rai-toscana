@@ -35,7 +35,7 @@ https://euc11.playlist.ttvnw.net/v1/playlist/CsMGP7FmOT2W2Nr2hBfGUO4VzyKSSCeAw9A
 https://str03.fluid.stream/TeleRama/livestream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/330px-Logo_of_AC_Milan.svg.png", Milan
-chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1771504358~acl=/*~hmac=add1ed40a97095c36cd05c3b97ab05f1a0b5c2878917bdc7259e9adeeb50a5b3
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1771504358~acl=/*~hmac=add1ed40a97095c36cd05c3b97ab05f1a0b5c2878917bdc7259e9adeeb50a5b3
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png", Napoli
 https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist.m3u8
