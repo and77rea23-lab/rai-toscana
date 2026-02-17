@@ -1,0 +1,69 @@
+#EXTM3U 
+ 
+ 
+ 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/81/Logo_Atalanta_Bergamo.svg/330px-Logo_Atalanta_Bergamo.svg.png", Atalanta
+https://nrvideo1.newradio.it:1936/efstzahwew/efstzahwew/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/330px-Bologna_F.C._1909_logo.svg.png", Bologna
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/88/Cagliari_calcio.svg/330px-Cagliari_calcio.svg.png", Cagliari
+chrome-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg/330px-Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg.png", Como
+https://srvx1.selftv.video/espansione/smil:live/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/23/Unione_Sportiva_Cremonese_logo.svg/330px-Unione_Sportiva_Cremonese_logo.svg.png", Cremonese
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Genoa_Cricket_and_Football_Club_logo.svg/330px-Genoa_Cricket_and_Football_Club_logo.svg.png", Genoa
+https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/330px-FC_Internazionale_Milano_2021.svg.png", Inter
+https://amg27604-amg27604c2-amgplt0007.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c2-amgplt0007/a25dfd87-0be6-11f1-8d32-9efe3394eb44/36/1920x1080_4300000/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/330px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png", Juventus
+https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/3746146d-0be7-11f1-b654-86693381d800/121/1920x1080_5060000/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/330px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png", Juventus
+chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/62/Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg/330px-Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg.png", Lazio
+https://euc11.playlist.ttvnw.net/v1/playlist/CsMGP7FmOT2W2Nr2hBfGUO4VzyKSSCeAw9A_s0TYA7QQIQchrCzg7bDzul-w4MogavKa_sugQjQdnZwIo3UpLvqb3FebZakOA-g5PbRbmyaFmb3k3CmgDcxBzdG9TEJXYq_BELdPuw4QjpMieVDbTbyIU90vLg-L7JySTFtOcZciGf-A_0a2TxD3cjL05KwwgTKpmgqZUgG9-ZoKdHTulE6OombraOF2lnW61xt3l9M4nd_ytJUB9AnlGud0v1HRt98JpX2ML53GqXYHOi3zIjordLXQdgLpA5Wkz7fpXpp35v1FPMhgjl86YrpXMgXpmMe1ag_UKN91xoYtHghw3ga-2gp9lzuJ2edFrW_rFhhv72GqqjcUv7TOe-Vg3sHThlVOKrBlB9LSM46kFaHTj-s0xMBJtWz5ou7rgaR8zVzm_dk6VIphgpT1UVCMPAoPPemGzT5Jg3RN_-jGW7avXlIMZyN4xHp6mKmDIMi3lntbWBZ4AS6iPT1aczEhQV1TCV-g59-k_Y77u5BpQ5zjyjLZA64pdY9dH6V6BaBYEtynWH531mr5Eun0iqa9wmu5EHEVpu3JPIrdqlbCTa6lLquETdt5X5AuaY6Cw9ULk4_wP63EKuLgPCGnvPjPrCfcvG-_bAReJfbwNbrVXTW6s_ah1O2WAVN3_5sXqlYFit0YT1ND4itard-jaI6qMAp3353P0FgUmZVtQaiIUvVxRqno1KgZ2rPo_Za3Wudq2s6DawwxT7QKXmgB8pl0PsKGizorJL9b0vJqES8AK1KUEdhy5Hak7IpgzN0rN8NyKcpUHPA_KqE4k0xWis8OIZieSVPUXsp8N9CtnQB61dv2mVJKZ8001P5UYPgeiMr9Uz5g7kQxCxIZd6DE01Dt2GtJyDwsvwtofc3G6tXJ8UKYrECRnDmBRF0udLMohByyg-lcmkTinPSMg2thaKHV3yVIWLg78bjsolwIjroV1TpxGYrHvVgKJF6Ip7pqdaGPUBqBe8d-2bkzcP0faQ1iP5WGf1CO2tY2MJ6RUQmBr8lCJgFvbZN1W2sVCDTF-XapShrG7lcdo6FLLT0TMzDY4OEyZGTuT7wO4KkAks4VA9isA4ulmeFaTxoMIRHRJ5Z61IwLoTqvIAEqCWV1LXdlc3QtMjC6Dg.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/36/US_Lecce_Stemma.svg/330px-US_Lecce_Stemma.svg.png", Lecce
+https://str03.fluid.stream/TeleRama/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/330px-Logo_of_AC_Milan.svg.png", Milan
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1771496093~acl=/*~hmac=346c913bac289ce3f6fe2e1eb933e1582503bf21bf185cfa0e5a836978b6dcde
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png", Napoli
+https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/330px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png", Parma
+https://12tvparma.fluid.stream/12TVParma/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d7/Logo_Pisa_SC_2017.svg/330px-Logo_Pisa_SC_2017.svg.png", Pisa
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NWYyMTk2YzJmMzBhMDc2NzNjNDI2NzdhMmQ3ZGMyMCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzcxMzcwNzQ3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.HGM3PuahKX9xevzh-GtTU12LS2KONIOR0W_bZgo3rwx08fk2RROux3etcP6FLdwA6Vuxn9yw0Whw12b1dlfFo-_8nCMhPjLqkDWljccHt8LMao85OIzUrSAqHU88FxL9FUTkLHrabaqJduryD7rOVX22BfINfGXoFv73eqBehgUQI4nraBOHV1g3E9rJni8jI53Zj_137DQH1_6I7JCbnLmec-1aRoUyODGVzQvrPEfh4BdoP5ZnmD_m1sHiU5bzhYNSi73nY0L2LIv7mbhs3BvQDoMIXk83iAQoHSv6Ow8ydTSXfLGe2gtpS0ok8zOiH9ZBlB3io0qjcj5J0T3H2g/manifest/video.m3u8?CMCD=cid%3D%221771327548513%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2269fa0a0e-3e1f-4da1-9932-4597487c6ef5%22%2Csu
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/AS_Roma_Logo_2017.svg/330px-AS_Roma_Logo_2017.svg.png", Roma
+https://usher.ttvnw.net/api/channel/hls/teleradiostereo.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNDVjNWFjYTQtYjk4My00ZGQ2LWE1YzEtNTg1YWY0OWUxYzI2In0%3D&allow_source=true&browser_family=chrome&browser_version=144.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&multigroup_video=false&os_name=Windows&os_version=NT%2010.0&p=4624735&parent_domains=twitchplayer&platform=web&play_session_id=6f6f5b2c78bc4b10896f71eeaaca36d2&player_backend=mediaplayer&player_version=1.49.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=bc5d09a4dbb45605da9fa53c5285a5b8307092a6&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22teleradiostereo%22%2C%22channel_id%22%3A766930826%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%228b01aa7c661a38df%22%2C%22expires%22%3A1771317614%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%222.35.184.112%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/AS_Roma_Logo_2017.svg/330px-AS_Roma_Logo_2017.svg.png", Roma
+https://usher.ttvnw.net/api/channel/hls/centrosuonosport1015.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNDVjNWFjYTQtYjk4My00ZGQ2LWE1YzEtNTg1YWY0OWUxYzI2In0%3D&allow_source=true&browser_family=chrome&browser_version=144.0&cdm=wv&enable_score=true&fast_bread=true&include_unavailable=true&multigroup_video=false&os_name=Windows&os_version=NT%2010.0&p=4227630&parent_domains=twitchplayer&platform=web&play_session_id=97a5568bf49b4b4b8edfb9a0d49bd7de&player_backend=mediaplayer&player_version=1.49.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=03a08baf258ef21c0949df61a0125be2b9de0797&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22centrosuonosport1015%22%2C%22channel_id%22%3A561037754%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%228b01aa7c661a38df%22%2C%22expires%22%3A1771318842%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%222.35.184.112%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a4/Ussassuolostemma.svg/330px-Ussassuolostemma.svg.png", Sassuolo
+https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/media-video-stream-1.m3u8?start=now-1h&end=now
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/04/Torino_FC_logo.svg/330px-Torino_FC_logo.svg.png", Torino
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8?session=6Epo5vEB4kpJhxbct56hEE
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/330px-Logo_Udinese_Calcio_2010.svg.png", Udinese
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/chunklist_w466380728.m3u8
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/92/Hellas_Verona_FC_logo_%282020%29.svg/330px-Hellas_Verona_FC_logo_%282020%29.svg.png", Verona
+https://mediastream.telenuovo.it/tv/2026/02/16/d75dac2d-64c5-4e64-8d87-ed3c2846e275/playlist.m3u8
+
+
