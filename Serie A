@@ -52,7 +52,7 @@ https://usher.ttvnw.net/api/v2/channel/hls/centrosuonosport1015.m3u8?acmb=eyJBcH
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a4/Ussassuolostemma.svg/330px-Ussassuolostemma.svg.png", Sassuolo
-https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/media-video-stream-1.m3u8?start=now-1h&end=now
+https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-1h
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/04/Torino_FC_logo.svg/330px-Torino_FC_logo.svg.png", Torino
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8?session=6Epo5vEB4kpJhxbct56hEE
