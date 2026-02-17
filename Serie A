@@ -21,7 +21,7 @@ https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/330px-FC_Internazionale_Milano_2021.svg.png", Inter
-https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_rrfxctvv/flavorIds/0_26vth25r,0_26vth25r,0_km0aag84/format/applehttp/protocol/https/a.m3u8?clientTag=html5:v2.55&uiConfId=30030997
+https://cf.vod.mp.streamamg.com/vod/_definst_/s3/3001560/20250924/3001/0_rrfxctvv_0_26vth25r_2.mp4/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZi52b2QubXAuc3RyZWFtYW1nLmNvbS92b2QvX2RlZmluc3RfL3MzLzMwMDE1NjAvMjAyNTA5MjQvMzAwMS8wX3JyZnhjdHZ2XzBfMjZ2dGgyNXJfMi5tcDQvY2h1bmtsaXN0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzEzMzE5MDR9fX1dfQ__&Signature=aeTD2Dk9HW~ORAhOTY8bphBFdRLIOv~2fYdNTwxRuUdk8FvjuEQ2rAmGudhaEfSbfKy~SQuycWV95y8aMeuoScohN-ZxXHdacSs8GnGTza27XxgxTYqvR2xi9frtDZnAsbxLqor2rZc5JtvrBH7T9gQ1o-G8GAm7fRAw6dhq6odHXMSReBCp9NL8iImermqalnks8DPUvvvF52kSYd7QemzlcoV4Dw7jSWNafTmMTsa90Ql~hHDlGaSOAAb37l6AfB8x1d9W0pgcje6iwq-rzp0SQ4Pmq8TeD-LROSpncdx59ejscea1HUm0C4p~PwfxvOeKfmvdFliZKmScYUHBIA__&Key-Pair-Id=APKAJVKZD2WR75FL2ZUQ
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/330px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png", Juventus
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/3746146d-0be7-11f1-b654-86693381d800/121/1920x1080_5060000/index.m3u8
