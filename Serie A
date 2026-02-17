@@ -9,7 +9,7 @@ https://nrvideo1.newradio.it:1936/efstzahwew/efstzahwew/playlist.m3u8
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/88/Cagliari_calcio.svg/330px-Cagliari_calcio.svg.png", Cagliari
-chrome-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg/330px-Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg.png", Como
 https://srvx1.selftv.video/espansione/smil:live/playlist.m3u8
