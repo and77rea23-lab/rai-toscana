@@ -21,7 +21,7 @@ https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/330px-FC_Internazionale_Milano_2021.svg.png", Inter
-https://amg27604-amg27604c2-amgplt0007.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c2-amgplt0007/a25dfd87-0be6-11f1-8d32-9efe3394eb44/36/1920x1080_4300000/index.m3u8
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_rrfxctvv/flavorIds/0_26vth25r,0_26vth25r,0_km0aag84/format/applehttp/protocol/https/a.m3u8?clientTag=html5:v2.55&uiConfId=30030997
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/330px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png", Juventus
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/3746146d-0be7-11f1-b654-86693381d800/121/1920x1080_5060000/index.m3u8
