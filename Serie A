@@ -23,22 +23,28 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/330px-FC_Internazionale_Milano_2021.svg.png", Inter
 https://jmp2.uk/stvp-IT3100001FT
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/330px-Logo_of_AC_Milan.svg.png", Milan
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1771504358~acl=/*~hmac=add1ed40a97095c36cd05c3b97ab05f1a0b5c2878917bdc7259e9adeeb50a5b3
+
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/330px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png", Juventus
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 
-
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/AS_Roma_Logo_2017.svg/330px-AS_Roma_Logo_2017.svg.png", Roma
+https://5926fc9c7c5b2.streamlock.net:443/9094/9094/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/62/Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg/330px-Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg.png", Lazio
 https://euc11.playlist.ttvnw.net/v1/playlist/CsMGP7FmOT2W2Nr2hBfGUO4VzyKSSCeAw9A_s0TYA7QQIQchrCzg7bDzul-w4MogavKa_sugQjQdnZwIo3UpLvqb3FebZakOA-g5PbRbmyaFmb3k3CmgDcxBzdG9TEJXYq_BELdPuw4QjpMieVDbTbyIU90vLg-L7JySTFtOcZciGf-A_0a2TxD3cjL05KwwgTKpmgqZUgG9-ZoKdHTulE6OombraOF2lnW61xt3l9M4nd_ytJUB9AnlGud0v1HRt98JpX2ML53GqXYHOi3zIjordLXQdgLpA5Wkz7fpXpp35v1FPMhgjl86YrpXMgXpmMe1ag_UKN91xoYtHghw3ga-2gp9lzuJ2edFrW_rFhhv72GqqjcUv7TOe-Vg3sHThlVOKrBlB9LSM46kFaHTj-s0xMBJtWz5ou7rgaR8zVzm_dk6VIphgpT1UVCMPAoPPemGzT5Jg3RN_-jGW7avXlIMZyN4xHp6mKmDIMi3lntbWBZ4AS6iPT1aczEhQV1TCV-g59-k_Y77u5BpQ5zjyjLZA64pdY9dH6V6BaBYEtynWH531mr5Eun0iqa9wmu5EHEVpu3JPIrdqlbCTa6lLquETdt5X5AuaY6Cw9ULk4_wP63EKuLgPCGnvPjPrCfcvG-_bAReJfbwNbrVXTW6s_ah1O2WAVN3_5sXqlYFit0YT1ND4itard-jaI6qMAp3353P0FgUmZVtQaiIUvVxRqno1KgZ2rPo_Za3Wudq2s6DawwxT7QKXmgB8pl0PsKGizorJL9b0vJqES8AK1KUEdhy5Hak7IpgzN0rN8NyKcpUHPA_KqE4k0xWis8OIZieSVPUXsp8N9CtnQB61dv2mVJKZ8001P5UYPgeiMr9Uz5g7kQxCxIZd6DE01Dt2GtJyDwsvwtofc3G6tXJ8UKYrECRnDmBRF0udLMohByyg-lcmkTinPSMg2thaKHV3yVIWLg78bjsolwIjroV1TpxGYrHvVgKJF6Ip7pqdaGPUBqBe8d-2bkzcP0faQ1iP5WGf1CO2tY2MJ6RUQmBr8lCJgFvbZN1W2sVCDTF-XapShrG7lcdo6FLLT0TMzDY4OEyZGTuT7wO4KkAks4VA9isA4ulmeFaTxoMIRHRJ5Z61IwLoTqvIAEqCWV1LXdlc3QtMjC6Dg.m3u8
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png", Napoli
+https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist.m3u8
+
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/36/US_Lecce_Stemma.svg/330px-US_Lecce_Stemma.svg.png", Lecce
 https://str03.fluid.stream/TeleRama/livestream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/330px-Logo_of_AC_Milan.svg.png", Milan
-https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1771504358~acl=/*~hmac=add1ed40a97095c36cd05c3b97ab05f1a0b5c2878917bdc7259e9adeeb50a5b3
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png", Napoli
-https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist.m3u8
+
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/330px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png", Parma
 https://12tvparma.fluid.stream/12TVParma/livestream/playlist.m3u8
@@ -46,8 +52,11 @@ https://12tvparma.fluid.stream/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d7/Logo_Pisa_SC_2017.svg/330px-Logo_Pisa_SC_2017.svg.png", Pisa
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2NWYyMTk2YzJmMzBhMDc2NzNjNDI2NzdhMmQ3ZGMyMCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzcxMzcwNzQ3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.HGM3PuahKX9xevzh-GtTU12LS2KONIOR0W_bZgo3rwx08fk2RROux3etcP6FLdwA6Vuxn9yw0Whw12b1dlfFo-_8nCMhPjLqkDWljccHt8LMao85OIzUrSAqHU88FxL9FUTkLHrabaqJduryD7rOVX22BfINfGXoFv73eqBehgUQI4nraBOHV1g3E9rJni8jI53Zj_137DQH1_6I7JCbnLmec-1aRoUyODGVzQvrPEfh4BdoP5ZnmD_m1sHiU5bzhYNSi73nY0L2LIv7mbhs3BvQDoMIXk83iAQoHSv6Ow8ydTSXfLGe2gtpS0ok8zOiH9ZBlB3io0qjcj5J0T3H2g/manifest/video.m3u8?CMCD=cid%3D%221771327548513%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2269fa0a0e-3e1f-4da1-9932-4597487c6ef5%22%2Csu
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/AS_Roma_Logo_2017.svg/330px-AS_Roma_Logo_2017.svg.png", Roma
-https://5926fc9c7c5b2.streamlock.net:443/9094/9094/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Livorno-Stemma_semplificato.svg/330px-Livorno-Stemma_semplificato.svg.png", Livorno
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Livorno-Stemma_semplificato.svg/330px-Livorno-Stemma_semplificato.svg.png
+
+
+
 
 
 
