@@ -33,9 +33,8 @@ https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/AS_Roma_Logo_2017.svg/330px-AS_Roma_Logo_2017.svg.png", Roma
 https://streaming.softwarecreation.it/GoldTv/GoldTv/chunklist_w1050420095.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/62/Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg/330px-Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg.png", Lazio
-https://streaming.softwarecreation.it/tnove/tnove/chunklist_w212812060.m3u8
-
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/62/Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg/330px-Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg.png", 
+https://cdndirector.dailymotion.com/cdn/live/video/x95e0m2.m3u8?sec=NE9MmT_4RlDIW_QkRbqA0oShU8eBY3mGrDa0vdm_GHT6V9OSR74U_iB0K9TITwpUFEO8r3N9xGIc5p-cPUs1A3F98y_bvfiwMxUplQ6mG8Wqx1VwWmPhMxTfyuT-M0Sf&dmTs=755339&dmV1st=49a91cf8-3cf3-3f2b-fa7b-e6ea4254376e
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png", Napoli
 https://tmw.fluid.stream/rtn_tv/livestream/chunklist_w1376604965.m3u8?FLID=1
