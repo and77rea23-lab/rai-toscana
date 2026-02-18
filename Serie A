@@ -31,7 +31,7 @@ https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC06
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0e/AS_Roma_Logo_2017.svg/330px-AS_Roma_Logo_2017.svg.png", Roma
-https://5926fc9c7c5b2.streamlock.net:443/9094/9094/playlist.m3u8
+https://streaming.softwarecreation.it/GoldTv/GoldTv/chunklist_w1050420095.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/62/Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg/330px-Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg.png", Lazio
 https://streaming.softwarecreation.it/tnove/tnove/chunklist_w212812060.m3u8
