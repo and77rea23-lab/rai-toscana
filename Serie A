@@ -41,7 +41,7 @@ https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 https://streaming.softwarecreation.it/tnove/tnove/chunklist_w742234383.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/62/Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg/330px-Stemma_della_Societ%C3%A0_Sportiva_Lazio.svg.png", Lazio
-https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png", Napoli
 https://tmw.fluid.stream/rtn_tv/livestream/chunklist_w1376604965.m3u8?FLID=1
