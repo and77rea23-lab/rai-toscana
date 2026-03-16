@@ -14,7 +14,7 @@ https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/vide
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg/330px-Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg.png", Como
 https://srvx1.selftv.video/espansione/smil:live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/23/Unione_Sportiva_Cremonese_logo.svg/330px-Unione_Sportiva_Cremonese_logo.svg.png", Cremonese
+#EXTINF:-1, tvg-id="Cremonese" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/23/Unione_Sportiva_Cremonese_logo.svg/330px-Unione_Sportiva_Cremonese_logo.svg.png", Cremonese
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Genoa_Cricket_and_Football_Club_logo.svg/330px-Genoa_Cricket_and_Football_Club_logo.svg.png", Genoa
